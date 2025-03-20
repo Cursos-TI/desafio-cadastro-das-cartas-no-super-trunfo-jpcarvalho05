@@ -1,4 +1,36 @@
-# Desafio Super Trunfo - Países - Cadastro das Cartas - Atualizado: 21/02
+#Carta 1:
+
+Estado: A
+
+Código: A01
+
+Nome da Cidade: Niterói 
+
+População: 516.720
+
+Área: 129,375 km²
+
+PIB: 128.333,01 milhões de reais
+
+Número de Pontos Turísticos: 20
+
+ 
+
+Carta 2:
+
+Estado: B
+
+Código: B02
+
+Nome da Cidade: são Gonçalo 
+
+População: 960.652
+
+Área: 248,160 km²
+
+PIB: 20.324.882 milhões de reais 
+
+Número de Pontos Turísticos: 10    Desafio Super Trunfo - Países - Cadastro das Cartas - Atualizado: 21/02
 
 Bem-vindo ao desafio "Super Trunfo - Países"! No jogo Super Trunfo, os jogadores comparam os atributos das cartas para determinar a mais forte. O tema deste Super Trunfo é "Países", onde você comparará os atributos das cidades.
 
